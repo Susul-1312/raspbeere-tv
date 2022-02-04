@@ -1,0 +1,11 @@
+{
+    "name": "get-ferien",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {},
+    "scripts": {
+    },
+    "author": "Susi",
+    "license": "The Unlicense"
+  }
